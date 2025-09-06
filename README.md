@@ -11,7 +11,7 @@ This project helps users create, update, delete, and manage tasks with status tr
 ---
 
 ## ✨ Features
-- ➕ Add new tasks  
+ ➕ Add new tasks  
 - ✏️ Update existing tasks  
 - ❌ Delete tasks  
 - 📊 Track status (`pending`, `in_progress`, `done`)  
