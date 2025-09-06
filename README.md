@@ -91,7 +91,6 @@ CREATE TABLE tasks (
   updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
 );
 Insert sample task:
-
 sql
 Copy code
 INSERT INTO tasks (title, description, status)
