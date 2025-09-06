@@ -27,7 +27,6 @@ task-manager/
 │── README.md # Project documentation
 
 
-
 ---
 
 ## 🚀 Setup Instructions
