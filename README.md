@@ -15,7 +15,7 @@ This project helps users create, update, delete, and manage tasks with status tr
  ✏️ Update existing tasks  
  ❌ Delete tasks  
  📊 Track status (`pending`, `in_progress`, `done`)  
-- 🌐 Full-stack app (React + Node + MySQL)  
+ 🌐 Full-stack app (React + Node + MySQL)  
 
 ---
 
