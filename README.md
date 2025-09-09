@@ -7,7 +7,6 @@ A full-stack **Task Management System** built with:
 - 🛢️ MySQL (Database)
 
 This project helps users create, update, delete, and manage tasks with status tracking.
-
 ---
 ## ✨ Features
  ➕ Add new tasks  
