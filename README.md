@@ -25,7 +25,6 @@ task-manager/
 │── schema.sql # Database schema
 │── README.md # Project documentation
 
-
 ---
 
 ## 🚀 Setup Instructions
