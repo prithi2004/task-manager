@@ -9,7 +9,6 @@ A full-stack **Task Management System** built with:
 This project helps users create, update, delete, and manage tasks with status tracking.
 
 ---
-
 ## ✨ Features
  ➕ Add new tasks  
  ✏️ Update existing tasks  
