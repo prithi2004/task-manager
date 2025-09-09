@@ -99,7 +99,6 @@ Built with ❤️ using React, Node.js, and MySQL.
 yaml
 Copy code
 ---
-
 👉 Save this as **`README.md`** in your project root, then commit & push:  
 
 ```bash
