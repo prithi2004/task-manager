@@ -1,7 +1,6 @@
 # 📝 Task Management System
 
 A full-stack **Task Management System** built with:
-
 - ⚛️ React (Frontend)
 - 🚀 Node.js + Express (Backend)
 - 🛢️ MySQL (Database)
